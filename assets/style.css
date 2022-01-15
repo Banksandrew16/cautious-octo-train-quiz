@@ -47,7 +47,7 @@ button {
   margin: 5px;
   cursor: pointer;
   font-size: 100%;
-  background-color: purple;
+  background-color: rgb(0, 139, 182);
   border-radius: 5px;
   padding: 2px 10px;
   color: white;
@@ -79,5 +79,5 @@ li {
 }
 
 li:nth-child(odd) {
-  background-color: #dfdae7;
+  background-color: white ;
 }
